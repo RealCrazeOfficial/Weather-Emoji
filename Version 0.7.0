@@ -1,0 +1,14 @@
+THIS VERSION HAS NOT BEEN COMPLETED YET.
+
++ Fixed issue where the shortcut wouldn't close when updating.
+
++ Dew point now has "LOW", "MODERATE", and "HIGH" indicators.
+
++ Visibility now has "LOW", "MODERATE", and "HIGH" indicators.
+
+
+Previous Changelog:
+
++ You can now update to the latest version.
+
++ Added changelog from previous version to the changelog.
