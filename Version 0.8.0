@@ -3,3 +3,13 @@
 
 Previous Changelog:
 
+
++ Fixed issue where the shortcut wouldn't close when updating.
+
++ Dew point now has "LOW", "MODERATE", and "HIGH" indicators.
+
++ Visibility now has "LOW", "MODERATE", and "HIGH" indicators.
+
++ Updated the main menu UI.
+
++ Changelogs now show in a page instead of an alert to prevent text overlapping the "OK" button (A current bug with Shortcuts.)
