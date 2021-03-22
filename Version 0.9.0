@@ -1,1 +1,11 @@
 
++ Updated the weather information UI.
+
++ Added the ability to copy data to your clipboard.
+
++ Fixed an issue where using the shortcut with cellular data would give an error.
+
+
+Previous Changelog:
+
++ Fixed an issue where the outlook message would be nothing.
